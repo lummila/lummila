@@ -2,6 +2,8 @@
 Art speaks and I create art through the medium of games. I currently study IT engineering, majoring in game production. My main strengths are artistic integrity, accessibility first -approach and solid fundamental understanding of programming principles. I am an unyieldingly inclusive, pro-queer feminist.
 ### **NO PROJECT OF MINE USE GENERATIVE AI AT ANY POINT OF THEIR DEVELOPMENT.**
 
+### [My itch.io page!](https://heyitsyoker.itch.io/) 🎮
+
 ## Finished projects:
 ### [GirlyPOPPED!](https://heyitsyoker.itch.io/girlypopped) | A casual feminist top-down shoot-men-up done in Unity 6.
 Solo project! <3
