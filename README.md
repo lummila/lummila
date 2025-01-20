@@ -9,12 +9,22 @@ Art speaks and I create art through the medium of games. I currently study IT en
 Solo project! <3
 
 
+**Learning focus:**
+- Using Unity Engine 6 (and Unity Analytics)
+- Scope handling
+- Commitment to finishing a solo project
+
+
 ### [Put To Sweep](https://heyitsyoker.itch.io/put-to-sweep) | A retro horror game made in UE5, where you control a robot vacuum to free imprisoned animals.
 **Roles:**
 - Character and systems programming
 - Enviromental Design
 - Sound editing
 
+**Learning focus:**
+- Unreal Engine 5 scripting
+- Environmental design
+- Working as a part of a game development
 
 ## Misc. projects:
 [Showroom](https://github.com/lummila/showcase) | If I remember, I'll put here all the worthwhile projects I'm working on that aren't games.
