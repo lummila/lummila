@@ -1,6 +1,6 @@
 # Aleksi Lummila -🏳️‍🌈 Game Development 🏳️‍🌈
 Video games are an art form and I chose to use that medium to express myself. I currently study IT engineering, majoring in game production. My main strengths are artistic integrity, accessibility first -approach and solid fundamental understanding of programming principles. I am an unyieldingly inclusive, pro-queer feminist.
-### **NO PROJECT OF MINE USE GENERATIVE AI AT ANY POINT OF THEIR DEVELOPMENT.**
+### **NO PROJECT OF MINE USE GENERATIVE AI AT ANY POINT OF THEIR DEVELOPMENT, AND I WEAR THAT STATEMENT AS A BADGE OF HONOR.**
 
 ### [My itch.io page!](https://heyitsyoker.itch.io/) 🎮
 
