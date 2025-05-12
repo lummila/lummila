@@ -3,8 +3,8 @@ Video games are an art form and I chose to use that medium to express myself. I 
 ### **NO PROJECT OF MINE USE GENERATIVE AI AT ANY POINT OF THEIR DEVELOPMENT, AND I WEAR THAT STATEMENT AS A BADGE OF HONOR.**
 
 ### [My itch.io page!](https://heyitsyoker.itch.io/) 🎮
-
 ## Finished projects:
+![Screenshot of Girlypopped](https://github.com/lummila/lummila/blob/3c4743fb90aa4e9d6c128d389513929ed9be79cf/girlypopped.png)
 ### [GirlyPOPPED!](https://heyitsyoker.itch.io/girlypopped) | A casual feminist top-down shoot-men-up done in Unity 6.
 Solo project! <3
 
@@ -15,6 +15,8 @@ Solo project! <3
 - Commitment to finishing a solo project
 
 
+
+![Screenshot of Put To Sweep](https://github.com/lummila/lummila/blob/3c4743fb90aa4e9d6c128d389513929ed9be79cf/put-to-sweep.png)
 ### [Put To Sweep](https://heyitsyoker.itch.io/put-to-sweep) | A retro horror game made in UE5, where you control a robot vacuum to free imprisoned animals.
 **Roles:**
 - Character and systems programming
@@ -25,9 +27,6 @@ Solo project! <3
 - Unreal Engine 5 scripting
 - Environmental design
 - Working as a part of a game development
-
-## Misc. projects:
-[Showroom](https://github.com/lummila/showcase) | If I remember, I'll put here all the worthwhile projects I'm working on that aren't games.
 <!--
 **lummila/lummila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
