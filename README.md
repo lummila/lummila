@@ -13,7 +13,7 @@ Solo project! <3
 - Using Unity Engine 6 (and Unity Analytics)
 - Scope handling
 - Commitment to finishing a solo project
-
+##
 
 
 ![Screenshot of Put To Sweep](https://github.com/lummila/lummila/blob/3c4743fb90aa4e9d6c128d389513929ed9be79cf/put-to-sweep.png)
@@ -27,6 +27,20 @@ Solo project! <3
 - Unreal Engine 5 scripting
 - Environmental design
 - Working as a part of a game development
+##
+
+
+![Screenshot of Aquakill](https://github.com/lummila/lummila/blob/dd728e785f35de6be734cacd33cd957b0e6cd8d6/aquakiru.png)
+### [Aquakill](https://dancingsoldier.itch.io/aquakill) | An underwater first person shooter.
+**Roles:**
+- Enemy AI
+- Serialization
+
+**Learning focus:**
+- Using Unity Engine 6
+- Enemy pathfinding
+- Safe serialization principles
+##
 <!--
 **lummila/lummila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
