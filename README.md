@@ -5,7 +5,7 @@ Video games are an art form and I chose to use that medium to express myself. I 
 ### [My itch.io page!](https://heyitsyoker.itch.io/) 🎮
 ## Finished projects:
 ![Screenshot of Girlypopped](https://github.com/lummila/lummila/blob/3c4743fb90aa4e9d6c128d389513929ed9be79cf/girlypopped.png)
-### [GirlyPOPPED!](https://heyitsyoker.itch.io/girlypopped) | A casual feminist top-down shoot-men-up done in Unity 6.
+### [GirlyPOPPED!](https://heyitsyoker.itch.io/girlypopped) | A casual feminist top-down shoot-men-up made in Unity 6.
 Solo project! <3
 
 
@@ -31,7 +31,7 @@ Solo project! <3
 
 
 ![Screenshot of Aquakill](https://github.com/lummila/lummila/blob/dd728e785f35de6be734cacd33cd957b0e6cd8d6/aquakiru.png)
-### [Aquakill](https://dancingsoldier.itch.io/aquakill) | An underwater first person shooter.
+### [Aquakill](https://dancingsoldier.itch.io/aquakill) | An underwater first person shooter made in Unity 6.
 **Roles:**
 - Enemy AI
 - Serialization
