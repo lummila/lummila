@@ -26,7 +26,7 @@ Solo project! <3
 **Learning focus:**
 - Unreal Engine 5 scripting
 - Environmental design
-- Working as a part of a game development
+- Working as a part of a game developer team
 ##
 
 
