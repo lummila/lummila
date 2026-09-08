@@ -3,7 +3,12 @@ Video games are an art form and I chose to use that medium to express myself. I 
 ### **NO PROJECT OF MINE USE GENERATIVE AI AT ANY POINT OF THEIR DEVELOPMENT, AND I WEAR THAT STATEMENT AS A BADGE OF HONOR.**
 
 ### [My itch.io page!](https://heyitsyoker.itch.io/) 🎮
+### [Studio Kette Steam page! (Director of Board)](https://store.steampowered.com/developer/studiokette) 🦊
 ## Finished projects:
+### [Prophecy of Vul](https://store.steampowered.com/app/4346000/Prophecy_of_Vul/) | A story-focused platforming adventure made in Godot 4.5.
+##
+
+
 ![Screenshot of Girlypopped](https://github.com/lummila/lummila/blob/3c4743fb90aa4e9d6c128d389513929ed9be79cf/girlypopped.png)
 ### [GirlyPOPPED!](https://heyitsyoker.itch.io/girlypopped) | A casual feminist top-down shoot-men-up made in Unity 6.
 Solo project! <3
