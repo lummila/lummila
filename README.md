@@ -5,11 +5,26 @@ Video games are an art form and I chose to use that medium to express myself. I 
 ### [My itch.io page!](https://heyitsyoker.itch.io/) 🎮
 ### [Studio Kette Steam page! (Director of Board)](https://store.steampowered.com/developer/studiokette) 🦊
 ## Finished projects:
+![Screenshot of Prophecy of Vul(prophecy-of-vul.png)
 ### [Prophecy of Vul](https://store.steampowered.com/app/4346000/Prophecy_of_Vul/) | A story-focused platforming adventure made in Godot 4.5.
+Created by Studio Kette, an employee-owned company of four people.
+**Roles:**
+- Director
+- Producer
+- Lead Programmer
+- UI Designer
+- Marketeer
+
+**Learning focus:**
+- Directing and producing an independent game production
+- Composition in Godot
+- Finishing a started commercial product
+- LiveOps
+- Marketing a new IP
 ##
 
 
-![Screenshot of Girlypopped](https://github.com/lummila/lummila/blob/3c4743fb90aa4e9d6c128d389513929ed9be79cf/girlypopped.png)
+![Screenshot of Girlypopped](girlypopped.png)
 ### [GirlyPOPPED!](https://heyitsyoker.itch.io/girlypopped) | A casual feminist top-down shoot-men-up made in Unity 6.
 Solo project! <3
 
@@ -21,7 +36,7 @@ Solo project! <3
 ##
 
 
-![Screenshot of Put To Sweep](https://github.com/lummila/lummila/blob/3c4743fb90aa4e9d6c128d389513929ed9be79cf/put-to-sweep.png)
+![Screenshot of Put To Sweep](put-to-sweep.png)
 ### [Put To Sweep](https://heyitsyoker.itch.io/put-to-sweep) | A retro horror game made in UE5, where you control a robot vacuum to free imprisoned animals.
 **Roles:**
 - Character and systems programming
