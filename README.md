@@ -17,7 +17,7 @@ Created by Studio Kette, an employee-owned company of four people.
 
 **Learning focus:**
 - Directing and producing an independent game production
-- Composition in Godot
+- Composition and scalable code in Godot
 - Finishing a started commercial product
 - LiveOps
 - Marketing a new IP
