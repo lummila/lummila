@@ -5,7 +5,7 @@ Video games are an art form and I chose to use that medium to express myself. I 
 ### [My itch.io page!](https://heyitsyoker.itch.io/) 🎮
 ### [Studio Kette Steam page! (Director of Board)](https://store.steampowered.com/developer/studiokette) 🦊
 ## Finished projects:
-![Screenshot of Prophecy of Vul(prophecy-of-vul.png)
+![Screenshot of Prophecy of Vul](prophecy-of-vul.png)
 ### [Prophecy of Vul](https://store.steampowered.com/app/4346000/Prophecy_of_Vul/) | A story-focused platforming adventure made in Godot 4.5.
 Created by Studio Kette, an employee-owned company of four people.
 **Roles:**
