@@ -35,7 +35,7 @@ Solo project! <3
 ##
 
 
-![Screenshot of Aquakill](https://github.com/lummila/lummila/blob/dd728e785f35de6be734cacd33cd957b0e6cd8d6/aquakiru.png)
+![Screenshot of Aquakill](https://github.com/lummila/lummila/blob/dd728e785f35de6be734cacd33cd957b0e6cd8d6/aquakill.png)
 ### [Aquakill](https://dancingsoldier.itch.io/aquakill) | An underwater first person shooter made in Unity 6.
 **Roles:**
 - Enemy AI
